@@ -41,6 +41,7 @@ function [terminal_velocity_sphere,terminal_velocity_shape,C_D,diameter] = termi
 % Papers to potentially incoporate:
 % Ouchene e tal 2016
 % Dioguardi et al 2018
+% specific gravity input
 
 %% Input parsing
 
